@@ -4,7 +4,8 @@ $CONK is a meme token created by an artist and treated as an art project.
 ## $CONK Manifesto
 https://ftmscan.com/tx/0x87dedac6a60243d1e33e9d9798a8b59ef3a6444db9df616db772b52c8764944e
 
-## Artist's Seven Instruction No. 1
+## Artist's Seven Instructions
+### Artist's Seven Instruction No. 1
 https://ftmscan.com/tx/0xa4bc653ba5c2d2b6c507f7b66d0b38cae929c124f38558da89ced3e0741086bd
 
 ## Community-managed socials:
@@ -15,6 +16,10 @@ Telegram: https://t.me/CONKFTM
 Twitter: https://twitter.com/shibapoconk
 
 Discord: https://discord.gg/F2WavCgFKj
+
+# Trade $CONK here:
+
+Beethoven X: https://beets.fi/swap?tokenOut=0xb715f8dce2f0e9b894c753711bd55ee3c04dca4e
 
 # Introduction
 Written by CONKer
