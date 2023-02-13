@@ -1,6 +1,12 @@
 # ShibaPoconk
 $CONK is a meme token created by an artist and treated as an art project. 
 
+## Community-managed socials:
+Website: https://conkme.com
+Telegram: https://t.me/CONKFTM
+Twitter: https://twitter.com/shibapoconk
+Discord: https://discord.gg/F2WavCgFKj
+
 # Introduction
 Written by CONKer
 
